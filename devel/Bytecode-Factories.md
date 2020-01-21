@@ -32,7 +32,7 @@ public class NumericInstructionFactory extends GenericInstructionFactory {
                        "LADD", "LSUB", "LMUL", "LDIV"   
   };
   
-  // where do they reside
+  // where do they reside like address
   protected static final String BC_PREFIX = "gov.nasa.jpf.numeric.bytecode.";
   
   // what classes should use them
